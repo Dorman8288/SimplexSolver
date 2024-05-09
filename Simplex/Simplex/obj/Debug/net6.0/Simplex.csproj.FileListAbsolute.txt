@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\bin\Debug\net6.0\Simplex.exe
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\bin\Debug\net6.0\Simplex.deps.json
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\bin\Debug\net6.0\Simplex.runtimeconfig.json
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\bin\Debug\net6.0\Simplex.dll
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\bin\Debug\net6.0\Simplex.pdb
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.AssemblyInfo.cs
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.dll
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\refint\Simplex.dll
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.pdb
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\Simplex.genruntimeconfig.cache
+C:\Users\User\source\repos\Simplex\Simplex\Simplex\obj\Debug\net6.0\ref\Simplex.dll
